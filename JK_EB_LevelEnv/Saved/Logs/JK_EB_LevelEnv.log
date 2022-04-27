@@ -1427,3 +1427,569 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.27-12.07.59:973][189]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.027
 [2022.04.27-12.07.59:985][189]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2022.04.27-12.07.59:985][189]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-12.08.38:726][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4x4)
+[2022.04.27-12.08.41:600][957]Cmd: EDIT COPY
+[2022.04.27-12.08.42:218][ 31]Cmd: EDIT PASTE
+[2022.04.27-12.08.52:764][255]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (floor_4x23)
+[2022.04.27-12.08.53:475][324]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.08.54:678][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4x4)
+[2022.04.27-12.08.58:796][948]Cmd: EDIT COPY
+[2022.04.27-12.08.59:496][ 32]Cmd: EDIT PASTE
+[2022.04.27-12.09.08:464][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4x7)
+[2022.04.27-12.09.09:540][201]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.09.16:723][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.04.27-12.09.16:742][ 27]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap21AA0D614CECCF9B7B7B7299701FB404.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-12.09.17:160][ 27]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap_BuiltDataDD4820BA4E6BF5FADCD24296DDEC6CC0.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.27-12.09.17:169][ 27]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-12.09.17:169][ 27]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.27-12.09.17:169][ 27]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-12.09.47:079][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x21)
+[2022.04.27-12.10.01:543][502]Cmd: EDIT COPY
+[2022.04.27-12.10.02:228][584]Cmd: EDIT PASTE
+[2022.04.27-12.10.14:942][ 49]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2022.04.27-12.10.16:733][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4x4)
+[2022.04.27-12.10.24:703][176]Cmd: EDIT COPY
+[2022.04.27-12.10.25:304][248]Cmd: EDIT PASTE
+[2022.04.27-12.10.36:558][545]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2022.04.27-12.11.51:129][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.27-12.11.51:150][862]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap1D10642F4A66CF30B392A6AEE57928C2.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-12.11.51:564][862]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap_BuiltData7B9D883742F4E9F2F138289C5EF07886.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.27-12.11.51:573][862]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-12.11.51:573][862]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.27-12.11.51:573][862]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-12.12.56:928][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.27-12.13.37:464][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4x11)
+[2022.04.27-12.14.31:225][346]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2022.04.27-12.14.31:253][346]LogStaticMesh: Building static mesh WallLarge...
+[2022.04.27-12.14.31:261][346]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPersonBP/StaticMeshes/WallLarge.WallLarge
+[2022.04.27-12.14.34:597][653]Cmd: TRANSACTION UNDO
+[2022.04.27-12.14.34:597][653]LogEditorTransaction: Undo Move Actors
+[2022.04.27-12.14.35:231][679]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.14.35:684][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4x11)
+[2022.04.27-12.14.37:461][883]LogActorFactory: Actor Factory created WallLarge
+[2022.04.27-12.14.41:670][348]LogActorFactory: Actor Factory created WallLarge
+[2022.04.27-12.16.28:001][200]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.16.35:158][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge)
+[2022.04.27-12.16.52:939][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x25)
+[2022.04.27-12.16.53:842][137]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.17.52:033][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x6)
+[2022.04.27-12.19.13:699][786]Cmd: EDIT COPY
+[2022.04.27-12.19.14:519][878]Cmd: EDIT PASTE
+[2022.04.27-12.19.47:595][587]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.19.53:438][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4x12)
+[2022.04.27-12.20.05:286][532]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.20.10:976][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4x12)
+[2022.04.27-12.20.15:542][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4x5)
+[2022.04.27-12.20.20:602][236]Cmd: EDIT COPY
+[2022.04.27-12.20.21:415][328]Cmd: EDIT PASTE
+[2022.04.27-12.20.26:402][856]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (wall_4x22)
+[2022.04.27-12.20.49:482][673]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2022.04.27-12.20.49:505][673]LogStaticMesh: Building static mesh 4x4WallStatic...
+[2022.04.27-12.20.49:508][673]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPersonBP/StaticMeshes/4x4WallStatic.4x4WallStatic
+[2022.04.27-12.20.54:851][168]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.20.55:286][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4x22)
+[2022.04.27-12.20.57:678][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4x21)
+[2022.04.27-12.21.00:260][744]Cmd: DELETE
+[2022.04.27-12.21.00:260][744]Cmd: ACTOR DELETE
+[2022.04.27-12.21.00:263][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-12.21.00:263][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-12.21.00:263][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-12.21.00:263][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-12.21.00:274][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.04.27-12.21.00:275][744]LogEditorActor: Deleted 4 Actors (0.015 secs)
+[2022.04.27-12.21.01:495][860]LogActorFactory: Actor Factory created 4x4WallStatic
+[2022.04.27-12.21.02:150][938]LogActorFactory: Actor Factory created 4x4WallStatic
+[2022.04.27-12.21.55:002][ 71]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.22.08:877][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.04.27-12.22.08:901][640]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMapA7DC7924432F3EA05C228280E01C2A74.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-12.22.09:329][640]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap_BuiltData0F16870E4B284AAF1D90D583AA078A5D.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.27-12.22.09:340][640]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-12.22.09:340][640]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.27-12.22.09:340][640]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-12.22.21:255][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (4x4WallStatic)
+[2022.04.27-12.22.32:067][826]Cmd: EDIT COPY
+[2022.04.27-12.22.32:630][886]Cmd: EDIT PASTE
+[2022.04.27-12.22.46:477][442]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.22.49:112][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4x6)
+[2022.04.27-12.22.50:061][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4x12)
+[2022.04.27-12.23.13:788][548]Cmd: TRANSACTION UNDO
+[2022.04.27-12.23.13:789][548]LogEditorTransaction: Undo Clicking on Actors
+[2022.04.27-12.23.14:400][573]Cmd: TRANSACTION UNDO
+[2022.04.27-12.23.14:400][573]LogEditorTransaction: Undo Clicking on Actors
+[2022.04.27-12.23.25:434][846]Cmd: TRANSACTION UNDO
+[2022.04.27-12.23.25:434][846]LogEditorTransaction: Undo Move Actors
+[2022.04.27-12.23.27:323][ 21]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2022.04.27-12.23.28:016][100]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.23.59:783][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge2)
+[2022.04.27-12.24.05:546][348]Cmd: EDIT COPY
+[2022.04.27-12.24.06:172][415]Cmd: EDIT PASTE
+[2022.04.27-12.24.13:646][193]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.24.28:001][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.04.27-12.24.28:026][702]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap574646DD4561DDD31762DD9121260F25.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-12.24.28:458][702]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap_BuiltDataAC5A925647C923890607D1815B1C0DE8.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.27-12.24.28:469][702]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-12.24.28:469][702]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.27-12.24.28:469][702]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-12.25.21:755][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x16)
+[2022.04.27-12.25.26:193][371]Cmd: TRANSACTION UNDO
+[2022.04.27-12.25.26:193][371]LogEditorTransaction: Undo Move Actors
+[2022.04.27-12.25.36:280][452]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.27-12.25.36:284][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.27-12.25.36:285][452]PIE: New page: PIE session: FirstPersonExampleMap (27 Apr 2022, 16:25:36)
+[2022.04.27-12.25.36:315][452]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-12.25.36:325][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010036s)
+[2022.04.27-12.25.36:326][452]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.27-12.25.36:327][452]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2022.04.27-12.25.36:327][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011602s)
+[2022.04.27-12.25.36:346][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.04.27-12.25.36:348][452]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.04.27-12.25.36:348][452]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.27-12.25.36:348][452]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.27-12.25.36:348][452]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.27-12.25.36:348][452]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.27-12.25.36:348][452]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.27-12.25.36:348][452]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.27-12.25.36:348][452]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.27-12.25.36:348][452]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.27-12.25.36:349][452]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.27-12.25.36:349][452]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.27-12.25.36:349][452]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.27-12.25.36:349][452]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.27-12.25.36:354][452]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.27-12.25.36:354][452]LogAudioMixer: Display: 1: FrontRight
+[2022.04.27-12.25.36:366][452]LogAudioMixer: Display: Using Audio Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2022.04.27-12.25.36:366][452]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.27-12.25.36:366][452]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.27-12.25.36:366][452]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.27-12.25.36:367][452]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.27-12.25.36:367][452]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.27-12.25.36:367][452]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.27-12.25.36:368][452]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.27-12.25.36:368][452]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.27-12.25.36:368][452]LogInit: FAudioDevice initialized.
+[2022.04.27-12.25.36:368][452]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2022.04.27-12.25.36:373][452]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.27-12.25.36:376][452]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.27-14.25.36
+[2022.04.27-12.25.36:376][452]LogWorld: Bringing up level for play took: 0.002465
+[2022.04.27-12.25.36:377][452]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.04.27-12.25.36:379][452]PIE: Server logged in
+[2022.04.27-12.25.36:379][452]PIE: Play in editor total start time 0,096 seconds.
+[2022.04.27-12.25.46:549][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-12.25.46:550][661]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-12.25.46:550][661]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.25.46:551][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.25.46:571][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.27-12.25.46:598][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.25.46:604][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-12.25.46:604][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.27-12.25.46:605][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.27-12.25.46:609][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.04.27-12.25.46:638][662]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.04.27-12.25.52:209][307]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.25.59:568][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge)
+[2022.04.27-12.26.02:422][484]Cmd: EDIT COPY
+[2022.04.27-12.26.03:027][552]Cmd: EDIT PASTE
+[2022.04.27-12.26.15:863][988]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2022.04.27-12.26.18:681][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge4)
+[2022.04.27-12.26.25:550][ 82]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.26.27:441][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge4)
+[2022.04.27-12.26.32:118][795]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.26.39:156][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.27-12.26.39:180][513]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMapCCB87AAC40A96DFDC3C590B1203ECDC5.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-12.26.39:609][513]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap_BuiltData566FAC354B26FA176FAC519CF9EC040D.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.27-12.26.39:621][513]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-12.26.39:621][513]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.27-12.26.39:621][513]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-12.26.45:332][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x12)
+[2022.04.27-12.26.55:635][141]LogStaticMesh: Building static mesh floor_2x2...
+[2022.04.27-12.26.55:670][141]LogStaticMesh: Built static mesh [0.03s] /Game/FirstPersonBP/LDK/floor_2x2.floor_2x2
+[2022.04.27-12.26.55:808][151]LogActorFactory: Actor Factory created floor_2x2
+[2022.04.27-12.27.01:906][830]LogActorFactory: Actor Factory created floor_2x2
+[2022.04.27-12.27.02:985][955]Cmd: TRANSACTION UNDO
+[2022.04.27-12.27.02:985][955]LogEditorTransaction: Undo Create Actors
+[2022.04.27-12.27.06:793][315]Cmd: TRANSACTION UNDO
+[2022.04.27-12.27.06:793][315]LogEditorTransaction: Undo Clicking on Actors
+[2022.04.27-12.27.09:975][547]LogStaticMesh: Building static mesh floor_2x1...
+[2022.04.27-12.27.10:031][547]LogStaticMesh: Built static mesh [0.06s] /Game/FirstPersonBP/LDK/floor_2x1.floor_2x1
+[2022.04.27-12.27.10:201][562]LogActorFactory: Actor Factory created floor_2x1
+[2022.04.27-12.27.16:588][279]LogActorFactory: Actor Factory created floor_2x1
+[2022.04.27-12.27.31:110][915]Cmd: DELETE
+[2022.04.27-12.27.31:110][915]Cmd: ACTOR DELETE
+[2022.04.27-12.27.31:113][915]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-12.27.31:119][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.04.27-12.27.31:121][915]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.04.27-12.27.37:886][600]LogStaticMesh: Building static mesh floor_4x2...
+[2022.04.27-12.27.37:926][600]LogStaticMesh: Built static mesh [0.04s] /Game/FirstPersonBP/LDK/floor_4x2.floor_4x2
+[2022.04.27-12.27.38:025][606]LogActorFactory: Actor Factory created floor_4x2
+[2022.04.27-12.27.47:748][706]LogActorFactory: Actor Factory created floor_4x2
+[2022.04.27-12.28.07:945][ 49]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.28.10:716][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x2)
+[2022.04.27-12.28.12:053][489]Cmd: EDIT COPY
+[2022.04.27-12.28.12:617][555]Cmd: EDIT PASTE
+[2022.04.27-12.28.16:465][992]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.28.19:980][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.04.27-12.28.20:004][359]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMapFE57E7E843C7C6B5BAF761B2DDF314AE.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-12.28.20:436][359]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap_BuiltDataE0A6366A42BE6632C37CA4B416DA46F2.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.27-12.28.20:450][359]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-12.28.20:450][359]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.27-12.28.20:450][359]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-12.28.39:174][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge4)
+[2022.04.27-12.28.49:827][479]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.28.50:616][561]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.28.51:175][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge4)
+[2022.04.27-12.28.52:782][777]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.28.54:892][984]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.28.55:363][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge4)
+[2022.04.27-12.29.00:562][630]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.29.06:032][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.04.27-12.29.06:056][193]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap6DBA28E24D15D364961257AE627CD421.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-12.29.06:530][193]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap_BuiltData5851D7804A6B8C33C69CA29559BB91F6.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.27-12.29.06:540][193]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-12.29.06:540][193]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.27-12.29.06:540][193]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-12.29.08:144][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.04.27-12.29.08:176][322]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/WallLargeEA84DA9D41016AC25F8D0F9EB3DABB2A.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/StaticMeshes/WallLarge.uasset'
+[2022.04.27-12.29.08:193][322]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/4x4WallStatic4E05BB534E213BC51AD306BC864B21FD.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/StaticMeshes/4x4WallStatic.uasset'
+[2022.04.27-12.29.08:201][322]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-12.29.08:201][322]LogContentValidation: Display: Validating StaticMesh /Game/FirstPersonBP/StaticMeshes/4x4WallStatic.4x4WallStatic
+[2022.04.27-12.29.08:201][322]LogContentValidation: Display: Validating StaticMesh /Game/FirstPersonBP/StaticMeshes/WallLarge.WallLarge
+[2022.04.27-12.29.19:584][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x29)
+[2022.04.27-12.29.33:845][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x27)
+[2022.04.27-12.29.36:879][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x31)
+[2022.04.27-12.30.14:219][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge4)
+[2022.04.27-12.30.14:865][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x27)
+[2022.04.27-12.30.16:691][200]Cmd: DELETE
+[2022.04.27-12.30.16:691][200]Cmd: ACTOR DELETE
+[2022.04.27-12.30.16:694][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-12.30.16:699][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.04.27-12.30.16:701][200]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.04.27-12.30.19:201][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x32)
+[2022.04.27-12.31.09:248][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x30)
+[2022.04.27-12.31.12:110][657]Cmd: TRANSACTION UNDO
+[2022.04.27-12.31.12:110][657]LogEditorTransaction: Undo Move Actors
+[2022.04.27-12.31.18:852][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x28)
+[2022.04.27-12.31.19:596][495]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.31.22:227][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x26)
+[2022.04.27-12.31.38:473][739]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.31.46:016][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x25)
+[2022.04.27-12.31.47:414][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x20)
+[2022.04.27-12.31.50:801][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x23)
+[2022.04.27-12.31.51:552][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x19)
+[2022.04.27-12.31.59:132][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.04.27-12.31.59:156][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.04.27-12.31.59:178][110]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap62840C8C4E143CF307F11FABA431E9E9.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-12.31.59:183][110]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.033
+[2022.04.27-12.31.59:192][110]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.27-12.31.59:192][110]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-12.32.03:223][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x32)
+[2022.04.27-12.32.05:069][808]Cmd: EDIT COPY
+[2022.04.27-12.32.05:919][910]Cmd: EDIT PASTE
+[2022.04.27-12.32.22:317][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x32)
+[2022.04.27-12.32.22:975][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge4)
+[2022.04.27-12.32.23:848][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x34)
+[2022.04.27-12.32.27:088][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge4)
+[2022.04.27-12.32.28:059][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x34)
+[2022.04.27-12.32.30:042][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge4)
+[2022.04.27-12.32.50:055][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x20)
+[2022.04.27-12.33.02:869][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x19)
+[2022.04.27-12.33.08:118][130]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2022.04.27-12.33.13:622][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x23)
+[2022.04.27-12.33.20:773][584]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.33.22:336][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x22)
+[2022.04.27-12.33.24:826][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x25)
+[2022.04.27-12.33.25:644][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x33)
+[2022.04.27-12.33.27:607][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x22)
+[2022.04.27-12.33.40:436][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.04.27-12.33.40:461][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.27-12.33.40:482][828]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap2205EE30452672C78B4D42953625171B.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-12.33.40:487][828]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.033
+[2022.04.27-12.33.40:496][828]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.27-12.33.40:496][828]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-12.33.45:841][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x19)
+[2022.04.27-12.33.46:649][556]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.33.47:988][713]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2022.04.27-12.33.48:604][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x22)
+[2022.04.27-12.33.50:074][951]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2022.04.27-12.33.50:574][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x17)
+[2022.04.27-12.33.54:349][447]Cmd: EDIT COPY
+[2022.04.27-12.33.55:074][534]Cmd: EDIT PASTE
+[2022.04.27-12.34.39:781][737]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.27-12.34.39:786][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.27-12.34.39:786][737]PIE: New page: PIE session: FirstPersonExampleMap (27 Apr 2022, 16:34:39)
+[2022.04.27-12.34.39:820][737]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-12.34.39:833][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013209s)
+[2022.04.27-12.34.39:835][737]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.27-12.34.39:835][737]LogPlayLevel: PIE: World Init took: (0.001632s)
+[2022.04.27-12.34.39:835][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015048s)
+[2022.04.27-12.34.39:841][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.04.27-12.34.39:844][737]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.04.27-12.34.39:844][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.27-12.34.39:844][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.27-12.34.39:844][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.27-12.34.39:844][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.27-12.34.39:844][737]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.27-12.34.39:844][737]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.27-12.34.39:844][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.27-12.34.39:844][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.27-12.34.39:845][737]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.27-12.34.39:845][737]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.27-12.34.39:845][737]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.27-12.34.39:845][737]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.27-12.34.39:851][737]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.27-12.34.39:851][737]LogAudioMixer: Display: 1: FrontRight
+[2022.04.27-12.34.39:861][737]LogAudioMixer: Display: Using Audio Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2022.04.27-12.34.39:862][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.27-12.34.39:862][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.27-12.34.39:862][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.27-12.34.39:862][737]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.27-12.34.39:862][737]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.27-12.34.39:862][737]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.27-12.34.39:863][737]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.27-12.34.39:863][737]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.27-12.34.39:863][737]LogInit: FAudioDevice initialized.
+[2022.04.27-12.34.39:863][737]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2022.04.27-12.34.39:870][737]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.27-12.34.39:873][737]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.27-14.34.39
+[2022.04.27-12.34.39:873][737]LogWorld: Bringing up level for play took: 0.002397
+[2022.04.27-12.34.39:873][737]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.04.27-12.34.39:876][737]PIE: Server logged in
+[2022.04.27-12.34.39:876][737]PIE: Play in editor total start time 0,091 seconds.
+[2022.04.27-12.34.50:791][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-12.34.50:791][ 40]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-12.34.50:791][ 40]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.34.50:791][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.34.50:799][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.27-12.34.50:813][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.34.50:818][ 40]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.27-12.34.50:818][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.27-12.34.50:819][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.27-12.34.50:821][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-12.34.50:823][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.04.27-12.34.50:882][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.04.27-12.34.57:044][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge4)
+[2022.04.27-12.35.05:510][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.04.27-12.35.05:535][677]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMapEC759EB14344F3390FD1BB95ABBEE0D5.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-12.35.05:964][677]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap_BuiltData0A1E9AD24918B931743AE7A2610A423F.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.27-12.35.05:974][677]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-12.35.05:974][677]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.27-12.35.05:974][677]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-12.35.18:144][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x19)
+[2022.04.27-12.35.18:969][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x22)
+[2022.04.27-12.35.19:392][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x17)
+[2022.04.27-12.36.24:392][888]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2022.04.27-12.36.24:425][888]LogStaticMesh: Building static mesh MakeshiftWalkway...
+[2022.04.27-12.36.24:432][888]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPersonBP/StaticMeshes/MakeshiftWalkway.MakeshiftWalkway
+[2022.04.27-12.36.38:636][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4x11)
+[2022.04.27-12.36.39:841][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge4)
+[2022.04.27-12.36.41:908][644]Cmd: EDIT COPY
+[2022.04.27-12.36.42:526][710]Cmd: EDIT PASTE
+[2022.04.27-12.36.55:129][ 81]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.37.22:812][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge5)
+[2022.04.27-12.37.36:031][639]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2022.04.27-12.37.36:757][698]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2022.04.27-12.37.37:190][743]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.37.37:801][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge4)
+[2022.04.27-12.37.39:062][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4x19)
+[2022.04.27-12.37.46:525][632]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.37.47:846][726]LogActorFactory: Actor Factory created 4x4WallStatic
+[2022.04.27-12.37.53:454][312]LogActorFactory: Actor Factory created 4x4WallStatic
+[2022.04.27-12.38.07:660][856]Cmd: EDIT COPY
+[2022.04.27-12.38.08:285][931]Cmd: EDIT PASTE
+[2022.04.27-12.38.16:136][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge4)
+[2022.04.27-12.38.24:044][760]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.38.28:361][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (4x4WallStatic6)
+[2022.04.27-12.38.37:044][242]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.38.41:265][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (4x4WallStatic6)
+[2022.04.27-12.38.45:438][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (4x4WallStatic5)
+[2022.04.27-12.38.48:000][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (4x4WallStatic6)
+[2022.04.27-12.38.48:757][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (4x4WallStatic5)
+[2022.04.27-12.38.52:558][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (4x4WallStatic6)
+[2022.04.27-12.38.53:486][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge4)
+[2022.04.27-12.38.55:568][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge4)
+[2022.04.27-12.39.00:627][845]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.39.09:676][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge2)
+[2022.04.27-12.39.19:645][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (4x4WallStatic2)
+[2022.04.27-12.39.28:538][720]Cmd: EDIT COPY
+[2022.04.27-12.39.29:223][788]Cmd: EDIT PASTE
+[2022.04.27-12.40.07:515][903]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.40.28:264][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.04.27-12.40.28:291][ 40]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMapC134452B425A2D01E6254DAD1F38B792.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-12.40.28:720][ 40]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap_BuiltDataEF5DA9E143E3096ECB6DC88E1DDA166E.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.27-12.40.28:730][ 40]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-12.40.28:730][ 40]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.27-12.40.28:730][ 40]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-12.40.46:251][685]Cmd: DELETE
+[2022.04.27-12.40.46:251][685]Cmd: ACTOR DELETE
+[2022.04.27-12.40.46:255][685]LogEditorActor: Deleted Actor: Character
+[2022.04.27-12.40.46:262][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.04.27-12.40.46:264][685]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.04.27-12.41.00:637][186]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.04.27-12.41.21:448][215]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.41.49:244][957]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.42.50:218][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge5)
+[2022.04.27-12.43.41:492][359]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2022.04.27-12.43.42:260][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (4x4WallStatic5)
+[2022.04.27-12.43.43:248][518]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.43.46:036][779]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.27-12.43.46:041][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.27-12.43.46:041][779]PIE: New page: PIE session: FirstPersonExampleMap (27 Apr 2022, 16:43:46)
+[2022.04.27-12.43.46:041][779]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-12.43.46:056][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015410s)
+[2022.04.27-12.43.46:058][779]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.27-12.43.46:059][779]LogPlayLevel: PIE: World Init took: (0.002546s)
+[2022.04.27-12.43.46:059][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018175s)
+[2022.04.27-12.43.46:066][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.27-12.43.46:067][779]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.04.27-12.43.46:067][779]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.27-12.43.46:067][779]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.27-12.43.46:067][779]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.27-12.43.46:067][779]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.27-12.43.46:067][779]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.27-12.43.46:067][779]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.27-12.43.46:067][779]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.27-12.43.46:067][779]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.27-12.43.46:068][779]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.27-12.43.46:068][779]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.27-12.43.46:068][779]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.27-12.43.46:068][779]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.27-12.43.46:074][779]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.27-12.43.46:074][779]LogAudioMixer: Display: 1: FrontRight
+[2022.04.27-12.43.46:086][779]LogAudioMixer: Display: Using Audio Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2022.04.27-12.43.46:086][779]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.27-12.43.46:086][779]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.27-12.43.46:086][779]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.27-12.43.46:087][779]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.27-12.43.46:087][779]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.27-12.43.46:087][779]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.27-12.43.46:087][779]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.27-12.43.46:088][779]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.27-12.43.46:088][779]LogInit: FAudioDevice initialized.
+[2022.04.27-12.43.46:088][779]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonExampleMap'.
+[2022.04.27-12.43.46:096][779]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.27-12.43.46:099][779]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.27-14.43.46
+[2022.04.27-12.43.46:099][779]LogWorld: Bringing up level for play took: 0.002817
+[2022.04.27-12.43.46:099][779]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.04.27-12.43.46:102][779]PIE: Server logged in
+[2022.04.27-12.43.46:102][779]PIE: Play in editor total start time 0,063 seconds.
+[2022.04.27-12.44.18:794][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-12.44.18:794][617]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-12.44.18:795][617]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.44.18:796][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.44.18:812][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.27-12.44.18:825][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.44.18:832][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-12.44.18:832][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.27-12.44.18:833][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.27-12.44.18:837][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.04.27-12.44.18:867][618]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.04.27-12.44.28:492][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.27-12.44.28:520][562]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMapAE52FB2D4A2CB5F34EA280BE53CFAA18.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-12.44.28:963][562]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap_BuiltDataFE0EEF4C4F756FD1D4D8B6AF542FD09A.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.27-12.44.28:972][562]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-12.44.28:972][562]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.27-12.44.28:972][562]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-12.44.41:128][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x11)
+[2022.04.27-12.45.07:639][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stairs_1x3)
+[2022.04.27-12.45.31:332][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x20)
+[2022.04.27-12.46.05:194][991]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2022.04.27-12.46.05:693][ 40]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 4
+[2022.04.27-12.46.28:342][326]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.46.41:356][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x20)
+[2022.04.27-12.47.01:260][602]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.47.01:935][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x20)
+[2022.04.27-12.47.04:850][956]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.47.09:536][394]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.27-12.47.09:541][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.27-12.47.09:541][394]PIE: New page: PIE session: FirstPersonExampleMap (27 Apr 2022, 16:47:09)
+[2022.04.27-12.47.09:541][394]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-12.47.09:556][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014731s)
+[2022.04.27-12.47.09:557][394]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.27-12.47.09:557][394]LogPlayLevel: PIE: World Init took: (0.001453s)
+[2022.04.27-12.47.09:557][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016360s)
+[2022.04.27-12.47.09:575][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.04.27-12.47.09:578][394]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.04.27-12.47.09:578][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.27-12.47.09:578][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.27-12.47.09:578][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.27-12.47.09:578][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.27-12.47.09:578][394]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.27-12.47.09:578][394]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.27-12.47.09:578][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.27-12.47.09:578][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.27-12.47.09:578][394]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.27-12.47.09:578][394]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.27-12.47.09:578][394]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.27-12.47.09:578][394]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.27-12.47.09:584][394]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.27-12.47.09:584][394]LogAudioMixer: Display: 1: FrontRight
+[2022.04.27-12.47.09:595][394]LogAudioMixer: Display: Using Audio Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2022.04.27-12.47.09:595][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.27-12.47.09:595][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.27-12.47.09:595][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.27-12.47.09:596][394]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.27-12.47.09:596][394]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.27-12.47.09:596][394]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.27-12.47.09:597][394]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.27-12.47.09:597][394]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.27-12.47.09:597][394]LogInit: FAudioDevice initialized.
+[2022.04.27-12.47.09:597][394]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonExampleMap'.
+[2022.04.27-12.47.09:608][394]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.27-12.47.09:611][394]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.27-14.47.09
+[2022.04.27-12.47.09:611][394]LogWorld: Bringing up level for play took: 0.002683
+[2022.04.27-12.47.09:611][394]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.04.27-12.47.09:614][394]PIE: Server logged in
+[2022.04.27-12.47.09:614][394]PIE: Play in editor total start time 0,073 seconds.
+[2022.04.27-12.47.24:549][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-12.47.24:549][120]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.27-12.47.24:549][120]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-12.47.24:549][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.47.24:557][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.27-12.47.24:563][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-12.47.24:569][120]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.27-12.47.24:569][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.27-12.47.24:570][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.27-12.47.24:572][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.27-12.47.24:574][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.04.27-12.47.24:639][122]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.04.27-12.47.30:912][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.27-12.47.30:941][761]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap31248C10408E4038F4AAA08BCFC66FC1.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-12.47.31:383][761]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap_BuiltData0200379F4C77346F9F8CD08B83B981C5.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.27-12.47.31:393][761]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-12.47.31:393][761]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.27-12.47.31:393][761]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-12.48.29:674][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge5)
+[2022.04.27-12.48.33:973][674]Cmd: EDIT COPY
+[2022.04.27-12.48.34:726][743]Cmd: EDIT PASTE
+[2022.04.27-12.48.50:567][296]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.48.52:406][488]Cmd: TRANSACTION UNDO
+[2022.04.27-12.48.52:406][488]LogEditorTransaction: Undo Clicking on Actors
+[2022.04.27-12.48.55:342][740]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.48.56:664][877]Cmd: TRANSACTION UNDO
+[2022.04.27-12.48.56:664][877]LogEditorTransaction: Undo Clicking on Actors
+[2022.04.27-12.49.06:748][766]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.49.10:925][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge5)
+[2022.04.27-12.49.16:581][605]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.49.20:286][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallLarge8)
+[2022.04.27-12.49.25:147][473]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.49.32:552][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.04.27-12.49.32:580][216]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMapC6A20A444383A7D8EB46BCA4DF6AD6DC.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-12.49.33:022][216]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap_BuiltData8560BA2448443239F7FEDD97E6E02092.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.27-12.49.33:032][216]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-12.49.33:032][216]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.27-12.49.33:032][216]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-12.49.35:336][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.04.27-12.49.35:381][390]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/MakeshiftWalkway22791CF24CD80BA6278C6D8F2CFD9F09.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/StaticMeshes/MakeshiftWalkway.uasset'
+[2022.04.27-12.49.35:390][390]AssetCheck: New page: Asset Save: MakeshiftWalkway
+[2022.04.27-12.49.35:390][390]LogContentValidation: Display: Validating StaticMesh /Game/FirstPersonBP/StaticMeshes/MakeshiftWalkway.MakeshiftWalkway
+[2022.04.27-12.50.28:859][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x10)
+[2022.04.27-12.50.29:811][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x11)
+[2022.04.27-12.50.34:466][664]Cmd: EDIT COPY
+[2022.04.27-12.50.35:100][740]Cmd: EDIT PASTE
+[2022.04.27-12.51.12:209][101]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.51.17:571][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.04.27-12.51.17:598][698]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMapE15CDCC5420E52D8A4BCB2AFFCFA9573.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-12.51.18:024][698]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMap_BuiltData7DB561834B02C174CDD3548BEC6CCABC.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.27-12.51.18:035][698]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-12.51.18:035][698]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.27-12.51.18:035][698]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-12.51.19:664][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
