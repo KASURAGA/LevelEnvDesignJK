@@ -1408,3 +1408,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.27-12.02.02:209][539]AssetCheck: New page: Asset Save: multiple assets
 [2022.04.27-12.02.02:209][539]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2022.04.27-12.02.02:209][539]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-12.04.05:169][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_4x11)
+[2022.04.27-12.04.10:303][960]Cmd: EDIT COPY
+[2022.04.27-12.04.10:878][ 29]Cmd: EDIT PASTE
+[2022.04.27-12.05.40:340][576]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.05.41:127][655]LogStaticMesh: Building static mesh wall_4x4...
+[2022.04.27-12.05.41:166][655]LogStaticMesh: Built static mesh [0.04s] /Game/FirstPersonBP/LDK/wall_4x4.wall_4x4
+[2022.04.27-12.05.41:224][659]LogActorFactory: Actor Factory created wall_4x4
+[2022.04.27-12.05.42:250][781]LogActorFactory: Actor Factory created wall_4x4
+[2022.04.27-12.06.50:717][431]Cmd: MODE SCALEGRID=0
+[2022.04.27-12.06.51:331][492]Cmd: MODE ROTGRID=0
+[2022.04.27-12.06.55:807][ 25]Cmd: MODE SCALEGRID=1
+[2022.04.27-12.06.56:298][ 81]Cmd: MODE ROTGRID=1
+[2022.04.27-12.07.45:701][797]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-12.07.59:920][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.04.27-12.07.59:951][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.04.27-12.07.59:968][189]LogSavePackage: Moving '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Saved/FirstPersonExampleMapD1BD02C8499674F41E7CF9860CC59B0C.tmp' to '../../../../../../Users/johanna.kasurinen/Documents/Unreal Projects/LevelEnvDesignJK/JK_EB_LevelEnv/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-12.07.59:973][189]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.027
+[2022.04.27-12.07.59:985][189]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.04.27-12.07.59:985][189]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
